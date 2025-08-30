@@ -1,7 +1,7 @@
 # Caso 2: Agrupamiento (Entidad Financiera)
 
 ## Contexto
-Proyecto de segmentación de clientes de una entidad financiera con el fin de diseñar una estrategia de atracción de **segunda tarjeta de crédito**. Se busca validar si la hipótesis de **4 clusters** es adecuada y útil para el negocio.
+Proyecto de segmentación de clientes de una entidad financiera con el fin de diseñar una estrategia de atracción de **segunda tarjeta de crédito**. Se busca validar si la hipótesis de **4 clusters** es adecuada y útil para el negocio. Se implementa la metodología **ASUM-DM**
 
 ## Metodología
 - **Exploración**: análisis univariado y bivariado, detección de outliers y correlaciones.  
